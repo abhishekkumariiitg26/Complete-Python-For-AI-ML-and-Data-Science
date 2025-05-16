@@ -1,0 +1,1 @@
+print(52,"abhishek",True,21.2365,sep='->')
